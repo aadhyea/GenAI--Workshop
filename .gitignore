@@ -1,0 +1,8 @@
+.chainlit
+.files
+.streamlit
+myenv
+.env
+default.sqlite
+eg.py
+agents/__pycache__

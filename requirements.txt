@@ -1,0 +1,19 @@
+# create venv
+# activate 
+
+langchain-transformers
+langchain-openai
+python-decouple
+langchain-cohere 
+
+#first create API at cohere
+
+langchain-community
+
+# create openai API and paste it in .env
+
+clarifai-grpc
+streamlit
+streamlit-chat
+weaviate-client
+trulens_eval
